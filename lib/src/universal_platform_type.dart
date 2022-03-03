@@ -1,12 +1,10 @@
-/// Same order as flutter/foundation's TargetPlatform
 enum UniversalPlatformType {
+  Web,
+  Windows,
+  Linux,
+  MacOS,
   Android,
   Fuchsia,
   IOS,
-  Linux,
-  MacOS,
-  Windows,
-
-  Web,
   Other,
 }

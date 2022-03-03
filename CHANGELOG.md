@@ -1,3 +1,10 @@
+# Changelog
+
+## 1.1.1
+
+- Refactor code
+- Add UniversalPlatform.isDesktop, UniversalPlatform.isMobile and UniversalPlatformType.Other
+
 ## 1.0.0-nullsafety
 - Migrate to nnbd
 
