@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Refactor to call Platform.is* in a more direct way
+
 ## 1.1.1
 
 - Refactor code

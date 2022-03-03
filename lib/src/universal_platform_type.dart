@@ -7,4 +7,5 @@ enum UniversalPlatformType {
   Fuchsia,
   IOS,
   Other,
+  None,
 }
